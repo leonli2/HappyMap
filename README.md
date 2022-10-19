@@ -1,1 +1,1 @@
-# happymap
+# HappyMap
