@@ -11,7 +11,7 @@ Since this is a project for Software Communication and Design at the University 
 • Geographical data such as streets and points of interest were queried with an API from the OSM (OpenStreetMap) database.<br/>
 • STL data structures (e.g. vectors) were used to the enhance speed of the API.<br/>
 • The EZGL graphics library was used to visualize the map and its features.<br/>
-• The GTK toolkit was used to build the user interface.<br/>
+• The GTK graphics package was used to build the user interface.<br/>
 • The path finding utilized Dijkstra's and A* algorithm to optimally find the shortest path and the directions that should be taken.<br/>
 
 # Features
