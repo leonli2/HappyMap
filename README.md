@@ -1,4 +1,4 @@
-# HappyMap
+# Happy Map
 Worked in a team of 3 to develop a large scale city mapping software (similar to Google Maps) in C++.
 
 # Note
